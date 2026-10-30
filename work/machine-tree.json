@@ -1,0 +1,520 @@
+{
+  "sha": "61600df53cb007e06b9f3c576d1c4b1d19042ef4",
+  "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/61600df53cb007e06b9f3c576d1c4b1d19042ef4",
+  "tree": [
+    {
+      "path": ".editorconfig",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04d2037c4559d2b535d8bac8954e8fd23a68cc14",
+      "size": 170,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/04d2037c4559d2b535d8bac8954e8fd23a68cc14"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "be5ebba3f6625451fffcb5c5ca442bd56e7d5340",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/be5ebba3f6625451fffcb5c5ca442bd56e7d5340"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1b72fa38b09f3f01745c22b723b5833d8dcf7e13",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/1b72fa38b09f3f01745c22b723b5833d8dcf7e13"
+    },
+    {
+      "path": ".github/workflows/test.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7dadb80e3b8b59d8b9fafc890adfa1919f13fa7",
+      "size": 683,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/c7dadb80e3b8b59d8b9fafc890adfa1919f13fa7"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "655ce495040d806475f591a3f94ea2d332235f8c",
+      "size": 59,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/655ce495040d806475f591a3f94ea2d332235f8c"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ed06c683d17ecf4014d1b5da2e126bfea5e95cf",
+      "size": 924,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/5ed06c683d17ecf4014d1b5da2e126bfea5e95cf"
+    },
+    {
+      "path": "MANIFEST.in",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b58145bdcfe1274853f5af002add39d0125a38d6",
+      "size": 236,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b58145bdcfe1274853f5af002add39d0125a38d6"
+    },
+    {
+      "path": "Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4dd371d5f9ebd702eecc9f0bcc70ac72940bff9",
+      "size": 1003,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b4dd371d5f9ebd702eecc9f0bcc70ac72940bff9"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "592c5aaef7f2b8b8e121445c8b9377e917da746b",
+      "size": 2117,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/592c5aaef7f2b8b8e121445c8b9377e917da746b"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2c38fccea0eb44f9ccc3432ee040965a560e4e8",
+      "size": 769,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a2c38fccea0eb44f9ccc3432ee040965a560e4e8"
+    },
+    {
+      "path": "requirements-dev.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2334c696d1a73de7b3d8d92c5b7bac79001b2aa5",
+      "size": 60,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/2334c696d1a73de7b3d8d92c5b7bac79001b2aa5"
+    },
+    {
+      "path": "requirements-test.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "146544c039cbf49fbb41bafb0b822aca47d31add",
+      "size": 36,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/146544c039cbf49fbb41bafb0b822aca47d31add"
+    },
+    {
+      "path": "setup.cfg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e37c56ca267f9deb3b0d1671552709e02695eb3",
+      "size": 52,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1e37c56ca267f9deb3b0d1671552709e02695eb3"
+    },
+    {
+      "path": "setup.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e9d3f70e389faa6b04db0f605f05b6c934b480c",
+      "size": 5869,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/3e9d3f70e389faa6b04db0f605f05b6c934b480c"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "98dcfe8a6eaa17360b4e67b89bc8f32cfe5bb6c6",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/98dcfe8a6eaa17360b4e67b89bc8f32cfe5bb6c6"
+    },
+    {
+      "path": "src/cpu.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e1b339c25456a30e0ae804615f34cc308c8748c",
+      "size": 989,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1e1b339c25456a30e0ae804615f34cc308c8748c"
+    },
+    {
+      "path": "src/cpu.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0649fdf09c9e27c3eeaa4bc1d73e5e6db6faa1c",
+      "size": 661,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/e0649fdf09c9e27c3eeaa4bc1d73e5e6db6faa1c"
+    },
+    {
+      "path": "src/cpu.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffa99fb0cf7da005c816f15fbd626344c03eafcc",
+      "size": 226,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/ffa99fb0cf7da005c816f15fbd626344c03eafcc"
+    },
+    {
+      "path": "src/m68k.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0faa142dc6e1aecc8c15fa14988f958b073ba3ff",
+      "size": 1493,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/0faa142dc6e1aecc8c15fa14988f958b073ba3ff"
+    },
+    {
+      "path": "src/mach.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "484a42e99fcd5e4e47296110768da11fe5406c73",
+      "size": 4575,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/484a42e99fcd5e4e47296110768da11fe5406c73"
+    },
+    {
+      "path": "src/mem.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c3b95f77a21d20760d43605a3431e83bb2cce5f",
+      "size": 8303,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/8c3b95f77a21d20760d43605a3431e83bb2cce5f"
+    },
+    {
+      "path": "src/mem.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a98667a90ffba3584e6885959d660acd6acaf5e2",
+      "size": 1889,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a98667a90ffba3584e6885959d660acd6acaf5e2"
+    },
+    {
+      "path": "src/mem.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14bfed46a29bb08988ba6aac4dbc91c7e6f17c23",
+      "size": 1451,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/14bfed46a29bb08988ba6aac4dbc91c7e6f17c23"
+    },
+    {
+      "path": "src/musashi",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a536b0f5b0e23b1c0c1fd9eb2d5a046404d1c0b",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/1a536b0f5b0e23b1c0c1fd9eb2d5a046404d1c0b"
+    },
+    {
+      "path": "src/musashi/Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ab4767f3a34112dafe6d49e23c8fb0f4314ae0a",
+      "size": 948,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/5ab4767f3a34112dafe6d49e23c8fb0f4314ae0a"
+    },
+    {
+      "path": "src/musashi/history.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2205dccb1d7796c366f199e3bc631ca3a6e4052",
+      "size": 5450,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/e2205dccb1d7796c366f199e3bc631ca3a6e4052"
+    },
+    {
+      "path": "src/musashi/m68k.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "975613d9afcbc88cdfdfae945dfde9760c0c6195",
+      "size": 16108,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/975613d9afcbc88cdfdfae945dfde9760c0c6195"
+    },
+    {
+      "path": "src/musashi/m68k_in.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfbacf4efe7342fe1334a0084fc5fef7373e75c9",
+      "size": 240702,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/cfbacf4efe7342fe1334a0084fc5fef7373e75c9"
+    },
+    {
+      "path": "src/musashi/m68kconf.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10f93fc59937f7bccc9d594644f7c1bea5ccd897",
+      "size": 8466,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/10f93fc59937f7bccc9d594644f7c1bea5ccd897"
+    },
+    {
+      "path": "src/musashi/m68kcpu.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29fc79e370cf034b684add77591b05475bd2e22e",
+      "size": 52555,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/29fc79e370cf034b684add77591b05475bd2e22e"
+    },
+    {
+      "path": "src/musashi/m68kcpu.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3894ce12bd76d3b6062227ada5e968568436634e",
+      "size": 69050,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/3894ce12bd76d3b6062227ada5e968568436634e"
+    },
+    {
+      "path": "src/musashi/m68kdasm.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d0eb83de268b4cb50d8850c3803934ec383fc2f",
+      "size": 111060,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1d0eb83de268b4cb50d8850c3803934ec383fc2f"
+    },
+    {
+      "path": "src/musashi/m68kfpu.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "674ba2bd2ee7e8337d13af72e0e2b5054bacff5b",
+      "size": 41323,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/674ba2bd2ee7e8337d13af72e0e2b5054bacff5b"
+    },
+    {
+      "path": "src/musashi/m68kmake.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "928ebd2ccf6630133dfae7ec8e7ec3cc53f30437",
+      "size": 43893,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/928ebd2ccf6630133dfae7ec8e7ec3cc53f30437"
+    },
+    {
+      "path": "src/musashi/m68kmmu.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6d90986cff80f0a8f752e8b89cdb839294161ae",
+      "size": 9002,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b6d90986cff80f0a8f752e8b89cdb839294161ae"
+    },
+    {
+      "path": "src/musashi/readme.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9d878c9cf1ed5e40a31e8975139e5f1c8747850",
+      "size": 12260,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/e9d878c9cf1ed5e40a31e8975139e5f1c8747850"
+    },
+    {
+      "path": "src/musashi/softfloat",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "193f64d10d17c182d413c715e65870ad9f459c72",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/193f64d10d17c182d413c715e65870ad9f459c72"
+    },
+    {
+      "path": "src/musashi/softfloat/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9500d25e8a3c605a5bd474779de9872b098a39fb",
+      "size": 3450,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/9500d25e8a3c605a5bd474779de9872b098a39fb"
+    },
+    {
+      "path": "src/musashi/softfloat/mamesf.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4195039486dc26129df41dfc71b96aa0b04d17d",
+      "size": 2856,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/c4195039486dc26129df41dfc71b96aa0b04d17d"
+    },
+    {
+      "path": "src/musashi/softfloat/milieu.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10687b755d0deba0ad8aa0841e210cb8d91f2f5c",
+      "size": 2232,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/10687b755d0deba0ad8aa0841e210cb8d91f2f5c"
+    },
+    {
+      "path": "src/musashi/softfloat/softfloat-macros",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de9031de545e9674f9cf64295c2b4d9a50e0344",
+      "size": 24993,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/5de9031de545e9674f9cf64295c2b4d9a50e0344"
+    },
+    {
+      "path": "src/musashi/softfloat/softfloat-specialize",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3113badfda7c2873bb30afcfae24e1599022ce7",
+      "size": 16695,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a3113badfda7c2873bb30afcfae24e1599022ce7"
+    },
+    {
+      "path": "src/musashi/softfloat/softfloat.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "400fd593fdca4c299c935caaabaf54e5b0049b2e",
+      "size": 158817,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/400fd593fdca4c299c935caaabaf54e5b0049b2e"
+    },
+    {
+      "path": "src/musashi/softfloat/softfloat.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92135e6634818e11a9e3d076de4ada5428ed2e10",
+      "size": 17855,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/92135e6634818e11a9e3d076de4ada5428ed2e10"
+    },
+    {
+      "path": "src/my_conf.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a89a7961e198c8fe4811d4e27cb9a514e4b93e7",
+      "size": 1294,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1a89a7961e198c8fe4811d4e27cb9a514e4b93e7"
+    },
+    {
+      "path": "src/pycpu.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "958debba0e66b1b17baca7a24d2ded9c894cc4b6",
+      "size": 8772,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/958debba0e66b1b17baca7a24d2ded9c894cc4b6"
+    },
+    {
+      "path": "src/pymem.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63b8ebe714976c873af3e05c8afe77134f2b92a9",
+      "size": 12246,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/63b8ebe714976c873af3e05c8afe77134f2b92a9"
+    },
+    {
+      "path": "src/pytraps.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "268ea07e906c00d8f5adf9eba715cf0b295cde19",
+      "size": 1266,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/268ea07e906c00d8f5adf9eba715cf0b295cde19"
+    },
+    {
+      "path": "src/traps.c",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "350cc1497c48bf394f84104f167afe4df2c5768b",
+      "size": 2118,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/350cc1497c48bf394f84104f167afe4df2c5768b"
+    },
+    {
+      "path": "src/traps.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "57bcbe827150bd1362db7a276399d1543dd456de",
+      "size": 727,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/57bcbe827150bd1362db7a276399d1543dd456de"
+    },
+    {
+      "path": "src/traps.pyx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5d4602426e52109d9fbcb0401edd9ac911927f6",
+      "size": 346,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a5d4602426e52109d9fbcb0401edd9ac911927f6"
+    },
+    {
+      "path": "src/win",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "29f4486648c28d6997fee3b8397b8af9c02c7fd1",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/29f4486648c28d6997fee3b8397b8af9c02c7fd1"
+    },
+    {
+      "path": "src/win/stdint.h",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d02608a5972642c7b7a13b987f21e2502a5af3ea",
+      "size": 7728,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/d02608a5972642c7b7a13b987f21e2502a5af3ea"
+    },
+    {
+      "path": "test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b507ed44d6f51bab35fbfa46272c1aa0923205e7",
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/b507ed44d6f51bab35fbfa46272c1aa0923205e7"
+    },
+    {
+      "path": "test/bench_machine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5e8002622ca9f6cd4277c138c9e9da770bc7582",
+      "size": 2569,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/d5e8002622ca9f6cd4277c138c9e9da770bc7582"
+    },
+    {
+      "path": "test/bench_traps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5e9e8cc72c8988dcad6e48e3ab4a7a447f59666",
+      "size": 2228,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/c5e9e8cc72c8988dcad6e48e3ab4a7a447f59666"
+    },
+    {
+      "path": "test/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1713651696184c8f3b7da3c6197cf8ee31a3c1d7",
+      "size": 1389,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1713651696184c8f3b7da3c6197cf8ee31a3c1d7"
+    },
+    {
+      "path": "test/opcodes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bfcf3529e456428d820d1cbe8cc1f230e4a2cae",
+      "size": 117,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/8bfcf3529e456428d820d1cbe8cc1f230e4a2cae"
+    },
+    {
+      "path": "test/pytest.ini",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a816db14019030826fe5d9337eb0f4251ab3c16",
+      "size": 63,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/0a816db14019030826fe5d9337eb0f4251ab3c16"
+    },
+    {
+      "path": "test/test_cpu.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eb34a779c9024de8ca7ac5a81757242aef57ab1",
+      "size": 3702,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/8eb34a779c9024de8ca7ac5a81757242aef57ab1"
+    },
+    {
+      "path": "test/test_greenlet.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dae307e46e9832b0d0ae3ceca35e6dc12056d4e",
+      "size": 2217,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/0dae307e46e9832b0d0ae3ceca35e6dc12056d4e"
+    },
+    {
+      "path": "test/test_machine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9d526ca5912c4cd261d28d4de0602c7df0d7eb1",
+      "size": 13923,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a9d526ca5912c4cd261d28d4de0602c7df0d7eb1"
+    },
+    {
+      "path": "test/test_mem.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28ed74b8794d9ded4a4f4001c1249620cf8ec6e0",
+      "size": 11618,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/28ed74b8794d9ded4a4f4001c1249620cf8ec6e0"
+    },
+    {
+      "path": "test/test_traps.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9b4ea6cfab19f26cc66ba8e37126f677204be5c",
+      "size": 2228,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a9b4ea6cfab19f26cc66ba8e37126f677204be5c"
+    },
+    {
+      "path": "tox.ini",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9c1632a7daceeb508ce4e93fd97bac16a603e54",
+      "size": 364,
+      "url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a9c1632a7daceeb508ce4e93fd97bac16a603e54"
+    }
+  ],
+  "truncated": false
+}

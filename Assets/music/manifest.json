@@ -1,0 +1,50 @@
+[
+  {
+    "name": "tune1",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 42.476,
+    "wav_sha256": "0f51b33085bb56bd6c31ae3a270e81e67404b9250e0138ea2fb25fb929329d6f",
+    "native_file": "tune1.m4a"
+  },
+  {
+    "name": "tune2",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 45.537,
+    "wav_sha256": "8afcc5cbcb2c7e81c1f8958d1d93bd3f4d17ca2fa02da918b65146926bd9dbf6",
+    "native_file": "tune2.m4a"
+  },
+  {
+    "name": "tune3",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 56.037,
+    "wav_sha256": "152b13411b49105bfaa5ae761c37f700e0fc40d8ed1d8627ffc3d74da778560d",
+    "native_file": "tune3.m4a"
+  },
+  {
+    "name": "tune4",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 55.715,
+    "wav_sha256": "c22d0edfc4462540a9fb217d92c5b47e3226e379afc58a5211253f1f0d081b58",
+    "native_file": "tune4.m4a"
+  },
+  {
+    "name": "tune5",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 47.234,
+    "wav_sha256": "4b97ff079c6082cc5a7f2350b5a77995fad3f07c94c16f5f825176cf5584fee8",
+    "native_file": "tune5.m4a"
+  },
+  {
+    "name": "tune6",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration_seconds": 37.01,
+    "wav_sha256": "ec3ed6e9d4afebc29c7f745c563f87fb8190d10f70c316e42cc8dbb7a7fa5407",
+    "native_file": "tune6.m4a"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "name": ".editorconfig",
+    "path": ".editorconfig",
+    "sha": "04d2037c4559d2b535d8bac8954e8fd23a68cc14",
+    "size": 170,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/.editorconfig?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/.editorconfig",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/04d2037c4559d2b535d8bac8954e8fd23a68cc14",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/.editorconfig",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/.editorconfig?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/04d2037c4559d2b535d8bac8954e8fd23a68cc14",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/.editorconfig"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "be5ebba3f6625451fffcb5c5ca442bd56e7d5340",
+    "size": 0,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/.github?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/tree/main/.github",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/be5ebba3f6625451fffcb5c5ca442bd56e7d5340",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/.github?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/be5ebba3f6625451fffcb5c5ca442bd56e7d5340",
+      "html": "https://github.com/cnvogelg/machine68k/tree/main/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "655ce495040d806475f591a3f94ea2d332235f8c",
+    "size": 59,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/.gitignore?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/.gitignore",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/655ce495040d806475f591a3f94ea2d332235f8c",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/.gitignore?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/655ce495040d806475f591a3f94ea2d332235f8c",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/.gitignore"
+    }
+  },
+  {
+    "name": "CHANGELOG.md",
+    "path": "CHANGELOG.md",
+    "sha": "5ed06c683d17ecf4014d1b5da2e126bfea5e95cf",
+    "size": 924,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/CHANGELOG.md?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/CHANGELOG.md",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/5ed06c683d17ecf4014d1b5da2e126bfea5e95cf",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/CHANGELOG.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/CHANGELOG.md?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/5ed06c683d17ecf4014d1b5da2e126bfea5e95cf",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/CHANGELOG.md"
+    }
+  },
+  {
+    "name": "MANIFEST.in",
+    "path": "MANIFEST.in",
+    "sha": "b58145bdcfe1274853f5af002add39d0125a38d6",
+    "size": 236,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/MANIFEST.in?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/MANIFEST.in",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b58145bdcfe1274853f5af002add39d0125a38d6",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/MANIFEST.in",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/MANIFEST.in?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b58145bdcfe1274853f5af002add39d0125a38d6",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/MANIFEST.in"
+    }
+  },
+  {
+    "name": "Makefile",
+    "path": "Makefile",
+    "sha": "b4dd371d5f9ebd702eecc9f0bcc70ac72940bff9",
+    "size": 1003,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/Makefile?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/Makefile",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b4dd371d5f9ebd702eecc9f0bcc70ac72940bff9",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/Makefile?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/b4dd371d5f9ebd702eecc9f0bcc70ac72940bff9",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/Makefile"
+    }
+  },
+  {
+    "name": "README.md",
+    "path": "README.md",
+    "sha": "592c5aaef7f2b8b8e121445c8b9377e917da746b",
+    "size": 2117,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/README.md?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/README.md",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/592c5aaef7f2b8b8e121445c8b9377e917da746b",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/README.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/README.md?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/592c5aaef7f2b8b8e121445c8b9377e917da746b",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/README.md"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "pyproject.toml",
+    "sha": "a2c38fccea0eb44f9ccc3432ee040965a560e4e8",
+    "size": 769,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/pyproject.toml?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/pyproject.toml",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a2c38fccea0eb44f9ccc3432ee040965a560e4e8",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a2c38fccea0eb44f9ccc3432ee040965a560e4e8",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/pyproject.toml"
+    }
+  },
+  {
+    "name": "requirements-dev.txt",
+    "path": "requirements-dev.txt",
+    "sha": "2334c696d1a73de7b3d8d92c5b7bac79001b2aa5",
+    "size": 60,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/requirements-dev.txt?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/requirements-dev.txt",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/2334c696d1a73de7b3d8d92c5b7bac79001b2aa5",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/requirements-dev.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/requirements-dev.txt?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/2334c696d1a73de7b3d8d92c5b7bac79001b2aa5",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/requirements-dev.txt"
+    }
+  },
+  {
+    "name": "requirements-test.txt",
+    "path": "requirements-test.txt",
+    "sha": "146544c039cbf49fbb41bafb0b822aca47d31add",
+    "size": 36,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/requirements-test.txt?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/requirements-test.txt",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/146544c039cbf49fbb41bafb0b822aca47d31add",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/requirements-test.txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/requirements-test.txt?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/146544c039cbf49fbb41bafb0b822aca47d31add",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/requirements-test.txt"
+    }
+  },
+  {
+    "name": "setup.cfg",
+    "path": "setup.cfg",
+    "sha": "1e37c56ca267f9deb3b0d1671552709e02695eb3",
+    "size": 52,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/setup.cfg?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/setup.cfg",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1e37c56ca267f9deb3b0d1671552709e02695eb3",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/setup.cfg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/setup.cfg?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/1e37c56ca267f9deb3b0d1671552709e02695eb3",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/setup.cfg"
+    }
+  },
+  {
+    "name": "setup.py",
+    "path": "setup.py",
+    "sha": "3e9d3f70e389faa6b04db0f605f05b6c934b480c",
+    "size": 5869,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/setup.py?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/setup.py",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/3e9d3f70e389faa6b04db0f605f05b6c934b480c",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/setup.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/setup.py?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/3e9d3f70e389faa6b04db0f605f05b6c934b480c",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/setup.py"
+    }
+  },
+  {
+    "name": "src",
+    "path": "src",
+    "sha": "98dcfe8a6eaa17360b4e67b89bc8f32cfe5bb6c6",
+    "size": 0,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/src?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/tree/main/src",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/98dcfe8a6eaa17360b4e67b89bc8f32cfe5bb6c6",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/src?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/98dcfe8a6eaa17360b4e67b89bc8f32cfe5bb6c6",
+      "html": "https://github.com/cnvogelg/machine68k/tree/main/src"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "b507ed44d6f51bab35fbfa46272c1aa0923205e7",
+    "size": 0,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/test?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/tree/main/test",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/b507ed44d6f51bab35fbfa46272c1aa0923205e7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/test?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/trees/b507ed44d6f51bab35fbfa46272c1aa0923205e7",
+      "html": "https://github.com/cnvogelg/machine68k/tree/main/test"
+    }
+  },
+  {
+    "name": "tox.ini",
+    "path": "tox.ini",
+    "sha": "a9c1632a7daceeb508ce4e93fd97bac16a603e54",
+    "size": 364,
+    "url": "https://api.github.com/repos/cnvogelg/machine68k/contents/tox.ini?ref=main",
+    "html_url": "https://github.com/cnvogelg/machine68k/blob/main/tox.ini",
+    "git_url": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a9c1632a7daceeb508ce4e93fd97bac16a603e54",
+    "download_url": "https://raw.githubusercontent.com/cnvogelg/machine68k/main/tox.ini",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/cnvogelg/machine68k/contents/tox.ini?ref=main",
+      "git": "https://api.github.com/repos/cnvogelg/machine68k/git/blobs/a9c1632a7daceeb508ce4e93fd97bac16a603e54",
+      "html": "https://github.com/cnvogelg/machine68k/blob/main/tox.ini"
+    }
+  }
+]

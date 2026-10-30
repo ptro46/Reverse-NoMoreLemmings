@@ -1,0 +1,4 @@
+Pillow==13.0.0
+numpy==2.5.4
+machine68k==0.4.1
+capstone==5.0.9
